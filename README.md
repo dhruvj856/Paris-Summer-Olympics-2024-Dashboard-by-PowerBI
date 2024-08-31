@@ -1,8 +1,13 @@
 # Paris-Summer-Olympics-2024-Dashboard-by-PowerBI
+
 PowerBI services report link : https://app.powerbi.com/groups/me/reports/45483752-48b1-490b-b66f-2bd050ad79e3?experience=power-bi
+
 📑**Datatset Credit:**
+
 **Name:Petro**
+
 **Dataset Name**: Paris 2024 Olympic Summer Games
+
 **Link**:https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games
 
 
